@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "492444641092",
+    "firebase_url": "https://bmicalculator-e9d20.firebaseio.com",
+    "project_id": "bmicalculator-e9d20",
+    "storage_bucket": "bmicalculator-e9d20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492444641092:android:78d1da957e1d74391d1911",
+        "android_client_info": {
+          "package_name": "com.rk.bmicalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492444641092-k6nh838rsr09cmj8hcupsc327rnv7vvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rk.bmicalculator",
+            "certificate_hash": "f3badac9630e0eddb251f407c9a472c5de1646a5"
+          }
+        },
+        {
+          "client_id": "492444641092-i30t934q14dol6ehv25lqodiqi0m3ago.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2CTAkWLU85VIjxARf6P7D-d07QsuhvBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492444641092-i30t934q14dol6ehv25lqodiqi0m3ago.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
